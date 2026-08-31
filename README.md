@@ -1,6 +1,8 @@
 # pcb-nfc-card
 A minimalist, matte black PCB NFC card with an integrated NFC antenna loop. I built this to replace traditional paper cards with a sleek piece of hardware that instantly shares a digital portfolio or contact info when tapped against a phone.
 
+![Screenshot of the pcb schematic](Screenshot-2026-09-01-044723.png)
+
 ![Screenshot of raw pcb](Screenshot-2026-09-01-042927.png)
 
 ![Screenshot of 3d view of pcb](Screenshot-2026-09-01-041146.png)
@@ -28,7 +30,7 @@ If you want to order a batch of these for yourself, here is the exact recipe to 
 - [PCB_NFC_Card.epro2](PCB_NFC_Card.epro2): Basically the schematic and pcb
 - [Screenshot-2026-09-01-042927.png](Screenshot-2026-09-01-042927.png): Screenshot of raw PCB
 - [Screenshot-2026-09-01-041146.png](Screenshot-2026-09-01-041146.png): Screenshot of 3D view of PCB
-- [Screenshot-2026-09-01-044723.png](Screenshot-2026-09-01-044723.png): Screenshot of the schematic
+- [Screenshot-2026-09-01-044723.png](Screenshot-2026-09-01-044723.png): Screenshot of the PCB schematic
 - [bom.csv](bom.csv): The actual bill of material for the user!
 
 ## How to edit the source files and get your NFC PCB Card?
