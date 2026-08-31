@@ -25,7 +25,7 @@ If you want to order a batch of these for yourself, here is the exact recipe to 
 - Via Covering: Via Plugged (Fills the antenna vias with black mask material to keep the surface relatively smooth)
 
 ## Repo Structure
-- [pcbpartsbom.csv](pcbpartsbom.csv): Parts used in the PCB (Just for information)
+- [pcb_parts_bom.csv](pcb_parts_bom.csv): Parts used in the PCB (Just for information)
 - [Gerber_PCB1_2026-09-01.zip](Gerber_PCB1_2026-09-01.zip): Gerber zip for PCB manufacturers (like JLCPCB)
 - [PCB_NFC_Card.epro2](PCB_NFC_Card.epro2): Basically the schematic and pcb
 - [Screenshot-2026-09-01-042927.png](Screenshot-2026-09-01-042927.png): Screenshot of raw PCB
@@ -44,7 +44,7 @@ If you want to order a batch of these for yourself, here is the exact recipe to 
 
 ## Components BOM for manufacturer:
 
-![pcb parts bom](pcbpartsbom.csv)
+![pcb parts bom](pcb_parts_bom.csv)
 
 ## BOM for user:
 
