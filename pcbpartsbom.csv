@@ -1,0 +1,7 @@
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier
+1,1,13.56MHZ NFC ANTENNA SMALL v1,A1,13.56MHZ CLASS 6 NFC ANTENNA,,,,,
+2,1,220nF,C1,C0805,220nF,,,,
+3,1,LED_0805-R,D1,LED0805-RD_GREEN,,,,,
+4,1,0,R1,R0805,0,,,,
+5,1,100,R2,R0805,100,,,,
+6,1,13.56MHz,U1,TSSOP-8_L3.0-W3.0-P0.65-LS4.9-BL,13.56MHz,NT3H2211W0FTTJ,NXP(恩智浦),C2654822,LCSC
