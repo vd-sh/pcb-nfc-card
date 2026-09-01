@@ -14,7 +14,7 @@ A minimalist, matte black PCB NFC card with an integrated NFC antenna loop. I bu
 This project is an open-source, hardware-level **PCB NFC card** designed around a custom 13.56MHz copper antenna loop. Instead of a standard plastic sticker enclosure, the circuit board serves as both the structural body and the high-frequency wireless receiver. It features a high-contrast matte black solder mask paired with exposed silver-plated component pads for a raw, industrial hardware aesthetic.
 
 ## What is its function?
-The card operates as a passive **Near Field Communication (NFC) transponder**. When brought within proximity of an active NFC reader (such as a smartphone or dedicated scanner), the integrated copper coil harvests electromagnetic energy over the air to power the onboard IC. Once energized, the chip modulates the field to wirelessly transmit its stored data payload—enabling data transfers, automated logic triggering, or wireless access authentication without requiring an onboard battery.
+The card operates as a passive **Near Field Communication (NFC) transponder**. When brought within proximity of an active NFC reader (such as a smartphone or dedicated scanner), the integrated copper coil harvests electromagnetic energy over the air to power the onboard IC. Once energized, the chip modulates the field to wirelessly transmit its stored data payload-enabling data transfers, automated logic triggering, or wireless access authentication without requiring an onboard battery.
 
 
 ## Fabrication specs
@@ -47,11 +47,11 @@ If you want to order a batch of these for yourself, here is the exact recipe to 
 
 ## PCB components' BOM for nerds:
 
-[pcb parts bom](pcb_parts_bom.csv)
+[PCB parts BOM](pcb_parts_bom.csv)
 
 ## BOM for user:
 
-[bom for you!](bom.csv)
+[Bill of materials for you!](bom.csv)
 
 ## LICENSE and Use:
 [MIT](LICENSE) - Use, Modify, and Share as you like, at your own risk.
