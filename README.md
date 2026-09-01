@@ -42,13 +42,13 @@ If you want to order a batch of these for yourself, here is the exact recipe to 
 6. Once you get your card shipped to you. It can be written with a writing tool available on iOS/Android to make it fully functional.
 7. You may also password-protect it to avoid overwriting. (Optional)
 
-## Components BOM for manufacturer:
+## PCB components' BOM for nerds:
 
-![pcb parts bom](pcb_parts_bom.csv)
+[pcb parts bom](pcb_parts_bom.csv)
 
 ## BOM for user:
 
-![bom for you!](bom.csv)
+[bom for you!](bom.csv)
 
 ## LICENSE and Use:
 [MIT](LICENSE) - Use, Modify, and Share as you like, at your own risk.
